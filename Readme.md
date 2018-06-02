@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Tatyana  Kuleshova](https://up.htmlacademy.ru/htmlcss/21/user/509071).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Рябов](https://up.htmlacademy.ru/htmlcss/21/user/161145).
 
 ---
 
